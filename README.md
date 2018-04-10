@@ -1,6 +1,13 @@
 # Shopify Theme Remake
 
-Rebuilding the Shopify Drexel Theme with media queries and Bootstrap 4
+```
+
+Rebuilding the Shopify Drexel Theme with media queries and Bootstrap 4.
+
+
+```
+
+You can visit the live webpage here: https://jaskiran-chhokar.github.io/Shopify-Theme-Remake/
 
 ----
 ## Credits
