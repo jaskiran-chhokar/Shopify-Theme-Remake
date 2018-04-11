@@ -719,6 +719,7 @@ h4.banner-para {
 /* branding section */
 .brand-active .owl-carousel .owl-item img {
 	display: block;
+	opacity: 0.8;
 }
 
 .brand-area .owl-carousel .owl-dots.disabled, .brand-area .owl-carousel .owl-nav.disabled {
