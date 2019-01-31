@@ -665,6 +665,7 @@ div.owl-nav::before {
 
 /* banner image */
 .banner-img {
+    background: #f4f4f4; 
     align-items: center;
     display: flex;
     height: 420px;
